@@ -17,6 +17,12 @@ public class SegonIntent {
         // TODO code application logic here
         
         //tengo que hacer la practica 7, el ejercicio 1 i 4
+        
+        int i=0;
+        while(i<100){
+            i++;
+            System.out.println("El valor de i es: "+i);
+        }
     }
     
 }
