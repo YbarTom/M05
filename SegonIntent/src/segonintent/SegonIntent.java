@@ -23,6 +23,11 @@ public class SegonIntent {
             i++;
             System.out.println("El valor de i es: "+i);
         }
+        
+        //parece que ahora si que va 
+        if(i==100){
+            System.out.println("Eres el mejor");
+        }
     }
     
 }
