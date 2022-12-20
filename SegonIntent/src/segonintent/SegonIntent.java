@@ -28,6 +28,9 @@ public class SegonIntent {
         if(i==100){
             System.out.println("Eres el mejor");
         }
+        
+        //al pau le da un error muy raro, veremos si ahora a mi me va 
+        System.out.println("Pau Chavero like myke");
     }
     
 }
